@@ -1,0 +1,2 @@
+<?php die(); ?>
+a:14:{i:0;s:1:"5";s:6:"ban_id";s:1:"5";i:1;s:12:"free_handies";s:6:"banned";s:12:"free_handies";i:2;s:7:"cwk4229";s:9:"banned_by";s:7:"cwk4229";i:3;s:7:"No fuck";s:10:"ban_reason";s:7:"No fuck";i:4;s:10:"1368599785";s:8:"ban_time";s:10:"1368599785";i:5;s:1:"0";s:14:"ban_expires_on";s:1:"0";i:6;s:9:"Flatcraft";s:6:"server";s:9:"Flatcraft";}

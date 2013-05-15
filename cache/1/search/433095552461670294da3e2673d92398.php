@@ -1,0 +1,2 @@
+<?php die(); ?>
+a:10:{i:0;s:9:"xdevilx04";s:6:"banned";s:9:"xdevilx04";i:1;s:11:"Dash_Gallou";s:9:"banned_by";s:11:"Dash_Gallou";i:2;s:47:"Unexceptable language. Dispute at FlatCraft.net";s:10:"ban_reason";s:47:"Unexceptable language. Dispute at FlatCraft.net";i:3;s:10:"1368634115";s:8:"ban_time";s:10:"1368634115";i:4;s:1:"0";s:14:"ban_expires_on";s:1:"0";}
